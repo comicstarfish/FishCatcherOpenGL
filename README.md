@@ -1,1 +1,1 @@
-# FishCatcherOpenGL
+# Fish Catcher game using OpenGL
